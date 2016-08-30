@@ -1,0 +1,2 @@
+# blogger
+RoR blogger project
